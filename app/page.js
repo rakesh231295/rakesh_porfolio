@@ -122,8 +122,8 @@ crossOrigin="anonymous"
     <div className="border border-secondary p-5 my-4 demo-effect">
       <div className="row">
         <div className="col-8">
-          <h3>02. Webflow Awwwards Team</h3>
-          <p style={{marginBottom:'-16px'}}>Runner Up - Webflow Expert Design</p>
+          <h3>02. Contact List</h3>
+          {/* <p style={{marginBottom:'-16px'}}>Runner Up - Webflow Expert Design</p> */}
         </div>
         <div className="col-4">
           <p style={{paddingTop:'16px'}}>Development 2021</p>
@@ -134,8 +134,8 @@ crossOrigin="anonymous"
     <div className="border border-secondary p-5 my-4 demo-effect">
       <div className="row">
         <div className="col-8">
-          <h3>03. Webflow Awwwards Team</h3>
-          <p style={{marginBottom:'-16px'}}>Runner Up - Webflow Expert Design</p>
+          <h3>03. Weather App</h3>
+          {/* <p style={{marginBottom:'-16px'}}>Runner Up - Webflow Expert Design</p> */}
         </div>
         <div className="col-4">
           <p style={{paddingTop:'16px'}}>Branding 2021</p>
@@ -146,8 +146,8 @@ crossOrigin="anonymous"
     <div className="border border-secondary p-5 my-4 demo-effect">
       <div className="row">
         <div className="col-8">
-          <h3>04. Webflow Awwwards Team</h3>
-          <p style={{marginBottom:'-16px'}}>Runner Up - Webflow Expert Design</p>
+          <h3>04. Tooltip</h3>
+          {/* <p style={{marginBottom:'-16px'}}>Runner Up - Webflow Expert Design</p> */}
         </div>
         <div className="col-4">
           <p style={{paddingTop:'16px'}}>Graphic Design 2019</p>
