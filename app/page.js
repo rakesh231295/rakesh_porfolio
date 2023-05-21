@@ -51,7 +51,7 @@ crossOrigin="anonymous"
   <div className="row gx-5">
     <div className="col-lg-5 col-md-12">
       <h4>Rakesh <i className="fa-2xs fa-solid fa-star-of-life icon-color"></i> Kumar</h4>
-      <h2>Lead product designer and art director.</h2>
+      <h2>Front-end Developer</h2>
     </div>
     <div className="col demo22">
       <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
@@ -167,7 +167,7 @@ crossOrigin="anonymous"
       <i className="fa-lg fa-solid fa-star-of-life icon-color"></i>
       <i className="fa-lg fa-solid fa-star-of-life icon-color"></i>
       <i className="fa-lg fa-solid fa-star-of-life icon-color"></i>
-      <h2 className="mt-3">Services</h2>
+      <h2 className="mt-3">Skills</h2>
       <p>Lorem ipsum dolor sit</p>
     </div>
 
