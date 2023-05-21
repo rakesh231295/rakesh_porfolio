@@ -83,7 +83,7 @@ crossOrigin="anonymous"
 <div className="container mt-4">
   <div className="row border border-secondary text-center">
     <div className="col-4 bg-light p-4">
-      <h2>7+</h2>
+      <h2>2+</h2>
       <p>Year of Experience</p>
     </div>
     <div className="col-4 p-4 bg-dark text-white">
@@ -107,7 +107,7 @@ crossOrigin="anonymous"
   </div>
 
   <div className="column">
-    <div className="border border-secondary p-5 my-4 demo-effect">
+    <div className="border border-secondary p-3 my-4 demo-effect">
       <div className="row">
         <div className="col-8">
           <h3>01. SuperHero</h3>
@@ -119,7 +119,7 @@ crossOrigin="anonymous"
       </div>
     </div>
 
-    <div className="border border-secondary p-5 my-4 demo-effect">
+    <div className="border border-secondary p-3 my-4 demo-effect">
       <div className="row">
         <div className="col-8">
           <h3>02. Contact List</h3>
@@ -131,7 +131,7 @@ crossOrigin="anonymous"
       </div>
     </div>
 
-    <div className="border border-secondary p-5 my-4 demo-effect">
+    <div className="border border-secondary p-3 my-4 demo-effect">
       <div className="row">
         <div className="col-8">
           <h3>03. Weather App</h3>
@@ -143,7 +143,7 @@ crossOrigin="anonymous"
       </div>
     </div>
 
-    <div className="border border-secondary p-5 my-4 demo-effect">
+    <div className="border border-secondary p-3 my-4 demo-effect">
       <div className="row">
         <div className="col-8">
           <h3>04. Tooltip</h3>
