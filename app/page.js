@@ -31,10 +31,10 @@ crossOrigin="anonymous"
       <h4 style={{paddingBottom:'1rem'}}>Designer <i className="fa-2xs fa-solid fa-star-of-life icon-color"></i>
         Developer <i className="fa-2xs fa-solid fa-star-of-life icon-color"></i> Creator</h4>
       <div className="col">
-        <div className="btn-group my-1">
+        {/* <div className="btn-group my-1">
           <button className="btn btn-dark rounded-0">Got a project?</button>
           <button className="btn btn-outline-dark rounded-0">Lets talk.</button>
-        </div>
+        </div> */}
       </div>
     </div>
 
@@ -110,8 +110,8 @@ crossOrigin="anonymous"
     <div className="border border-secondary p-5 my-4 demo-effect">
       <div className="row">
         <div className="col-8">
-          <h3>01. Webflow Awwwards Team</h3>
-          <p style={{marginBottom:'-16px'}}>Runner Up - Webflow Expert Design</p>
+          <h3>01. SuperHero</h3>
+          {/* <p style={{marginBottom:'-16px'}}>Runner Up - Webflow Expert Design</p> */}
         </div>
         <div className="col-4">
           <p style={{paddingTop:'16px'}}>Product Deign 2022</p>
@@ -168,7 +168,7 @@ crossOrigin="anonymous"
       <i className="fa-lg fa-solid fa-star-of-life icon-color"></i>
       <i className="fa-lg fa-solid fa-star-of-life icon-color"></i>
       <h2 className="mt-3">Skills</h2>
-      <p>Lorem ipsum dolor sit</p>
+      
     </div>
 
     <div className="container">
@@ -182,7 +182,7 @@ crossOrigin="anonymous"
         </div>
         <div className="col-6">
           <div className="row border border-secondary p-4 demo-effect">
-            <h3>Product Design</h3>
+            <h3>WordPress</h3>
             <p>Every single project is a challenge that we accept eagerly. Lets implement innovative
               ideas together!</p>
           </div>
@@ -192,14 +192,14 @@ crossOrigin="anonymous"
       <div className="row gx-5 my-4">
         <div className="col-6">
           <div className="row border border-secondary p-4 demo-effect">
-            <h3>UI/UX Design</h3>
+            <h3>Spofify</h3>
             <p>Every single project is a challenge that we accept eagerly. Lets implement innovative
               ideas together!</p>
           </div>
         </div>
         <div className="col-6">
           <div className="row border border-secondary p-4 demo-effect">
-            <h3>Art Direction</h3>
+            <h3>React JS</h3>
             <p>Every single project is a challenge that we accept eagerly. Lets implement innovative
               ideas together!</p>
           </div>
