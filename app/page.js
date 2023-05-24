@@ -103,7 +103,7 @@ crossOrigin="anonymous"
     <i className="fa-lg fa-solid fa-star-of-life icon-color"></i>
     <i className="fa-lg fa-solid fa-star-of-life icon-color"></i>
     <h2 className="mt-3">Projects</h2>
-    <p>Sample Projects</p>
+    <p>Projects</p>
   </div>
 
   <div className="column">
